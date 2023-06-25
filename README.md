@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Ahad</h1>
 <h3 align="center">Computer Programmer</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif
-"><br>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" ><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulahad365" alt="abdulahad365" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
