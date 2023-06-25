@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Ahad</h1>
 <h3 align="center">Computer Programmer</h3>
-<img align="right" alt="coding" width="400" src="[![image](https://github.com/AbdulAhad365/AbdulAhad365/assets/115157982/1979e75e-d877-45e3-9997-739ba57dbd98)](https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif)
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif
 "><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulahad365" alt="abdulahad365" /></a> </p>
 
