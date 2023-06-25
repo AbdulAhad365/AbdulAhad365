@@ -1,3 +1,4 @@
+![kogo](https://github.com/AbdulAhad365/AbdulAhad365/blob/main/Screenshot%202023-06-26%20001851.png)
 <h1 align="center">Hi 👋, I'm Abdul Ahad</h1>
 <h3 align="center">Computer Programmer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" ><br>
