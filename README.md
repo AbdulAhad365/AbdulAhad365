@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdul Ahad</h1>
 <h3 align="center">A passionate software Developer Engineer from India</h3>
-<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
+<!-- <!-- <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt=""> -->
+<img  src="[https://media.giphy.com/media/K5kfQExKk731K/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rsbjgzc2Nucmx0bTgwODZsb2NzcTFoOHQ2NTFvdWZqbTg4a2k4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RjehJ8106Qfjz4Qljq/giphy.gif)" width="300px" align="right" alt="">
+
+<!-- https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Rsbjgzc2Nucmx0bTgwODZsb2NzcTFoOHQ2NTFvdWZqbTg4a2k4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RjehJ8106Qfjz4Qljq/giphy.gif --> -->
 - 🌱 I’m currently learning **DSA, Web developement**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ravi-gupta-44bb451b1/](https://www.linkedin.com/in/ravi-gupta-44bb451b1/)
