@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Ahad Aamir</h1>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
-<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="250px" align="right" alt="">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulahad365&label=Profile%20views&color=0e75b6&style=flat" alt="abdulahad365" /> </p>
