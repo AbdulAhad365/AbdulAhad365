@@ -37,36 +37,27 @@
     <tr>
       <!-- <td>
         <div align="center">
-          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
+          <a href="https://github.com/AbdulAhad365"><img src="https://github.com/AbdulAhad365.png" alt="@AbdulAhad365" width="52" /></a>
           <br />
-          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
+          <a align="center" href="https://github.com/AbdulAhad365"><b>AbdulAhad365</b></a>
         </b>
       </td> -->
       <!-- Profile Views -->
       <td>
-         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/AbdulAhad365"> <img src="https://komarev.com/ghpvc/?username=AbdulAhad365&style=for-the-badge&color=brightgreen"> </a>
       </td>
     </tr>
   </table>
 
-## Top Sponsors
-**1. phuuthanh2003 ($12 per year)**
-
-**2. gmanasian23 ($10 one time)**
-
-**3. Stino89 ($10 one time)**
-
-   <a href="https://github.com/sponsors/Thinkright20"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
-
 ## What I'm Doing
 
-- 🔭 Working on Websites/Roblox Development
-- 🌱 Learning Node.js & more
-- 📫 How to contact me: thinkright20 (Discord)
+- 🔭 Working on ML/ Tensor/TensorFlow Development
+- 🌱 Learning Node.js & Javascipt
+- 📫 How to contact me: amir.raza537918@gmail.com (gmail)
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,tensorflow,github,mongodb,css,html,js,nodejs"> </a> </p>
 
 ## My Stats:
 <p align="center">
