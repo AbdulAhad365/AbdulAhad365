@@ -57,18 +57,18 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,tensorflow,github,mongodb,css,html,js,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,tensorflow,github,mongodb,css,html,docker,js,nodejs"> </a> </p>
 
 ## My Stats:
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Thinkright20&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=AbdulAhad365&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
 ## Activity On GitHub
 
 <p align="center">
-  <a href="https://github.com/Thinkright20">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
+  <a href="https://github.com/AbdulAhad365">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulAhad365&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
 
