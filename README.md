@@ -72,6 +72,8 @@
 
 
 ## Top Respositorys
+<details>
+  
  <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <div>
     <a href="https://github.com/AbdulAhad365/javascript-projects">
@@ -97,4 +99,5 @@
     </a>
   </div>
 </div>
+</details>
 
