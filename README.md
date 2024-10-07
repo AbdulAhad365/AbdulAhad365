@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <a href="https://discord.gg/V2QxwJkbMn"><img alt="Followers" title="Followers" src="https://img.shields.io/badge/-Cheap Followers-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.gg/ypXxfxCW"><img alt="Followers" title="Followers" src="https://img.shields.io/badge/-Cheap Followers-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://discord.gg/ypXxfxCW"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abdul-ahad-468284236/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/AbdulAhad365?tab=repositories&sort=stargazers">
@@ -50,7 +50,7 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,tensorflow,github,mongodb,css,html,docker,js,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/AbdulAhad365"><img src="https://skillicons.dev/icons?i=vscode,tensorflow,github,mongodb,css,html,docker,js,nodejs"> </a> </p>
 
 ## My Stats:
 <p align="center">
@@ -67,7 +67,7 @@
 
 ## Contributions By Graph
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Abdul Ahad Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AbdulAhad365&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/AbdulAhad365"><img alt="Abdul Ahad Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=AbdulAhad365&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
