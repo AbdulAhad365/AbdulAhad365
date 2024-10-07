@@ -14,8 +14,6 @@
 </p>
 
 
-
-
 <p align="center">
   <a href="https://discord.gg/V2QxwJkbMn"><img alt="Followers" title="Followers" src="https://img.shields.io/badge/-Cheap Followers-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://discord.gg/ypXxfxCW"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -31,22 +29,10 @@
 
   <table>
     <tr>
-      <!-- <th>Profile Views</th> -->
       <th>Total Count</th>
     </tr>
     <tr>
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/AbdulAhad365"><img src="https://github.com/AbdulAhad365.png" alt="@AbdulAhad365" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/AbdulAhad365"><b>AbdulAhad365</b></a>
-        </b>
-      </td> -->
-      <!-- Profile Views -->
-      <td>
-         <a href="https://github.com/AbdulAhad365"> <img src="https://komarev.com/ghpvc/?username=AbdulAhad365&style=for-the-badge&color=brightgreen"> </a>
-      </td>
-    </tr>
+
   </table>
 
 ## What I'm Doing
@@ -75,8 +61,6 @@
 ## Top Respositorys
   <p align="left">
      <a href="https://github.com/AbdulAhad365/javascript-projects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbdulAhad365&repo=javascript-projects&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-
-    <a href="https://github.com/AbdulAhad365/machine-learning-projects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbdulAhad365&repo=machine-learning-projects&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
    <a href="https://github.com/AbdulAhad365/Javascript-Basic"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AbdulAhad365&repo=Javascript-Basic&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
