@@ -7,7 +7,7 @@
 <p align="center">
 <h3 align="center">Hey there, I'm <a href="https://github.com/AbdulAhad365">Abdul Ahad</a></h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE7E0F&background=FCE2FF00&width=435&lines=Computer+Scientist;Always+learning+new+things;Backend+Developer;3+%2B+years+of+coding+experience" /></a>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE7E0F&background=FCE2FF00&width=435&lines=Computer+Scientist;Always+learning+new+things;Backend+Developer;3+%2B+years+of+coding+experience" /></a>
 </p>
 
 
