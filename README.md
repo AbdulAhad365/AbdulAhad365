@@ -22,18 +22,13 @@
 
 <!-- SOCIAL MEDIA  --------------------->
 <!-- SOCIAL MEDIA ICONS ARE HERE -->
-<p style="text-align: center;">
-  <a href="https://www.linkedin.com/in/abdul-ahad-468284236/">
-    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
-  </a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/abdul-ahad-468284236/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/AmirrazaAm3305">
-    <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/>
-  </a>
+    <a href="https://x.com/AmirrazaAm3305"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/ypXxfxCW" alt="Discord" title="Dev Pro Tips Discord Server">
-    <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
-  </a>
+    <a href="https://discord.gg/ypXxfxCW" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 
@@ -42,11 +37,7 @@
 
 
 <p align="center">
-<!--   <a href="https://discord.gg/ypXxfxCW"><img a<a href="https://stackoverflow.com/users/27571097/abdul-ahad-aamir">
-  <img alt="Stack Overflow Profile" title="View Abdul Ahad Aamir's Stack Overflow Profile" src="https://img.shields.io/badge/Stack%20Overflow-FA7343?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-</a>
-lt="Followers" title="Followers" src="https://img.shields.io/badge/-Cheap Followers-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> -->
-<!--   <a href="https://discord.gg/ypXxfxCW"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> -->
+
   <a href="https://discord.gg/ypXxfxCW"><img alt="Followers" title="Followers" src="https://img.shields.io/badge/-Cheap Followers-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://discord.gg/ypXxfxCW"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abdul-ahad-468284236/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
