@@ -21,17 +21,20 @@
 </p>
 
 <!-- SOCIAL MEDIA  --------------------->
-<p align="center">
-  
-  <a href="https://www.linkedin.com/in/abdul-ahad-468284236/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+<!-- SOCIAL MEDIA ICONS ARE HERE -->
+<p style="text-align: center;">
+  <a href="https://www.linkedin.com/in/abdul-ahad-468284236/">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/AmirrazaAm3305"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://x.com/AmirrazaAm3305">
+    <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/ypXxfxCW" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
+  <a href="https://discord.gg/ypXxfxCW" alt="Discord" title="Dev Pro Tips Discord Server">
+    <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
+  </a>
 </p>
-
 
 
 
