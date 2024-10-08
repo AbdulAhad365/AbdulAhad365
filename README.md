@@ -3,10 +3,12 @@
   <a href="https://github.com/AbdulAhad365">
     <img src="https://readme-typing-svg.demolab.com/?font=roboto&weight=1000&size=25&duration=4000&pause=1000&color=FF0000&width=435&lines=ARE+YOU+INTERESTED+IN++BACKEND+%F0%9F%A4%94" /></a>
 </p>
+
 ### ➡️ **Join my Discord Server to learn Backend Development with Node.js, Express.js, MongoDB and more!** ⬅️
 🔗 **https://discord.gg/ypXxfxCW**
 
 ## About Me
+
 <p align="center">
 <h3 align="center">Hey there, I'm <a href="https://github.com/AbdulAhad365">Abdul Ahad</a></h3>
 </p>
