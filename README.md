@@ -1,5 +1,8 @@
-<a href="https://github.com/AbdulAhad365">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FE7E0F&background=FCE2FF00&width=435&lines=Computer+Scientist;Always+learning+new+things;Backend+Developer;3+%2B+years+of+coding+experience" /></a>
+<p>
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/AbdulAhad365">
+    <img src="[https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FE7E0F&background=FCE2FF00&width=435&lines=Computer+Scientist;Always+learning+new+things;Backend+Developer;3+%2B+years+of+coding+experience](https://readme-typing-svg.demolab.com/?font=roboto&weight=1000&size=25&duration=4000&pause=1000&color=FF0000&width=435&lines=ARE+YOU+INTERESTED+IN++BACKEND+%F0%9F%A4%94)" /></a>
+</p>
 ### ➡️ **Join my Discord Server to learn Backend Development with Node.js, Express.js, MongoDB and more!** ⬅️
 🔗 **https://discord.gg/ypXxfxCW**
 
