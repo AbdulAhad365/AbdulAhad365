@@ -20,18 +20,25 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FE7E0F&background=FCE2FF00&width=435&lines=Computer+Scientist;Always+learning+new+things;Backend+Developer;3+%2B+years+of+coding+experience" /></a>
 </p>
 
-<!-- SOCIAL MEDIA ICONS ARE HERE -->
+<!-- SOCIAL MEDIA  --------------------->
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdul-ahad-468284236/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://stackoverflow.com/users/27571097/abdul-ahad-aamir" alt="Stack Overflow" title="Abdul Ahad Aamir on Stack Overflow">
-    <img width="32px" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"/>
+  <a href="https://www.linkedin.com/in/abdul-ahad-468284236/">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/AmirrazaAm3305"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://stackoverflow.com/users/27571097/abdul-ahad-aamir" alt="Stack Overflow" title="Abdul Ahad Aamir on Stack Overflow">
+    <img width="32px" alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-ff4787?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/ypXxfxCW" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://x.com/AmirrazaAm3305">
+    <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/ypXxfxCW" alt="Discord" title="Dev Pro Tips Discord Server">
+    <img width="32px" src="https://i.imgur.com/OViZO8J.png"/>
+  </a>
 </p>
+
 
 
 
