@@ -1,8 +1,10 @@
 <p>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/AbdulAhad365">
-    <img src="https://readme-typing-svg.demolab.com/?font=roboto&weight=1000&size=25&duration=4000&pause=1000&color=FF0000&width=435&lines=ARE+YOU+INTERESTED+IN++BACKEND+%F0%9F%A4%94" /></a>
+    <img src="[https://readme-typing-svg.demolab.com/?font=roboto&weight=1000&size=25&duration=4000&pause=1000&color=FF0000&width=435&lines=ARE+YOU+INTERESTED+IN++BACKEND+%F0%9F%A4%94](https://readme-typing-svg.demolab.com/?font=roboto&weight=1000&size=25&duration=4000&pause=1000&color=DFDF00E6&width=435&lines=ARE+YOU+INTERESTED+IN++BACKEND%3F%3F)" /></a>
 </p>
+
+## 
 
 ### ➡️ **Join my Discord Server to learn Backend Development with Node.js, Express.js, MongoDB and more!** ⬅️
 🔗 **https://discord.gg/ypXxfxCW**
