@@ -32,12 +32,20 @@
 
 
 <p align="center">
-  <a href="https://discord.gg/ypXxfxCW"><img alt="Followers" title="Followers" src="https://img.shields.io/badge/-Cheap Followers-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.gg/ypXxfxCW"><img a<a href="https://stackoverflow.com/users/27571097/abdul-ahad-aamir">
+  <img alt="Stack Overflow Profile" title="View Abdul Ahad Aamir's Stack Overflow Profile" src="https://img.shields.io/badge/Stack%20Overflow-FA7343?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+</a>
+lt="Followers" title="Followers" src="https://img.shields.io/badge/-Cheap Followers-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://discord.gg/ypXxfxCW"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abdul-ahad-468284236/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/AbdulAhad365?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AbdulAhad365?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
    <a href="https://github.com/AbdulAhad365"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/AbdulAhad365?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+
+   <a href="https://stackoverflow.com/users/27571097/abdul-ahad-aamir">
+  <img alt="Stack Overflow Profile" title="View Abdul Ahad Aamir's Stack Overflow Profile" src="https://img.shields.io/badge/Stack%20Overflow-FA7343?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+</a>
+
 
  </p>
  
