@@ -196,9 +196,11 @@
 </div>
 
 <!-- TROPHIES HERE-->
-<h2 id="-github-trophies">🏆 GitHub Trophies</h2><br/>
+<!--<h2 id="-github-trophies">🏆 GitHub Trophies</h2><br/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=These+are+my+Git+Hub+contribution+Trophies....">
-<p><img src="https://github-profile-trophy.vercel.app/?username=AbdulAhad365&amp;theme=onedark&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt=""></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=AbdulAhad365&amp;theme=onedark&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt=""></p>-->
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbdulAhad365&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ## My Stats:
