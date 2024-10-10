@@ -70,6 +70,11 @@
 
 <p align="left"> <a href="https://github.com/AbdulAhad365"><img src="https://skillicons.dev/icons?i=vscode,tensorflow,github,mongodb,css,html,docker,js,nodejs"> </a> </p>
 
+<h2 id="-github-trophies">🏆 GitHub Trophies</h2><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=These+are+my+Git+Hub+contribution+Trophies....">
+<p><img src="https://github-profile-trophy.vercel.app/?username=AbdulAhad365&amp;theme=onedark&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt=""></p>
+
+
 ## My Stats:
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=AbdulAhad365&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
