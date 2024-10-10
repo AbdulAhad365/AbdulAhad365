@@ -1,3 +1,5 @@
+<img align="center" alt="Coding" width="1000" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
+
 <p>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/AbdulAhad365">
